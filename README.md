@@ -1,16 +1,11 @@
-# React + Vite
+## About This Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a dashboard designed for display on a public screen, such as a TV in an office. Its purpose is to provide a real-time, at-a-glance overview of key project metrics for the team. The goal is to make critical information easily accessible and to promote a shared understanding of our progress.
 
-Currently, two official plugins are available:
+## Roadmap
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This is a list of features we plan to add to the dashboard in the future:
+- [ ] Implement a real-time data connection.
+- [ ] Add a visual chart for project progress (e.g., a progress bar or pie chart).
+- [ ] Display key performance indicators (KPIs) like remaining tasks or active contributors.
+- [ ] Add a a dark mode for better visibility in different lighting conditions.
