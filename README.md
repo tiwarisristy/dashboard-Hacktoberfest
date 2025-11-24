@@ -8,4 +8,4 @@ This is a list of features we plan to add to the dashboard in the future:
 - [ ] Implement a real-time data connection.
 - [ ] Add a visual chart for project progress (e.g., a progress bar or pie chart).
 - [ ] Display key performance indicators (KPIs) like remaining tasks or active contributors.
-- [ ] Add a a dark mode for better visibility in different lighting conditions.
+- [ ] Add a dark mode for better visibility in different lighting conditions.
